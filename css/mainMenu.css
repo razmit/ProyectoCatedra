@@ -1,0 +1,18 @@
+.header {
+    background-color: #007bff; /* slightly dark blue */
+    color: #fff; /* white text color */
+    padding: 20px 0;
+    margin-bottom: 20px;
+  }
+  .footer {
+    background-color: #007bff; /* slightly dark blue */
+    color: #fff; /* white text color */
+    padding: 10px 0;
+    margin-top: 20px;
+  }
+  
+  input[type="text"] {
+    text-align: center;
+  }
+  
+  

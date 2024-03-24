@@ -1,0 +1,35 @@
+.key {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 20px 0;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+
+  .key:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .custom-header {
+    text-align: center;
+    background-color: #007bff; /* blue-like background */
+    color: #fff; /* white text color */
+    padding: 20px 0;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    text-align: center;
+  }
+  
+  .enter-button {
+    margin-top: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .enter-button a{
+    color: white;
+    text-decoration: none;
+  }
