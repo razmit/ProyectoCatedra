@@ -47,3 +47,7 @@
   #listaPagos .dropdown-item {
     margin-right: 10px;
   }
+  
+  .funcBtn a{
+    color: white;
+  }
